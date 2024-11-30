@@ -2,8 +2,8 @@
   {
     "kernelSource": {
       "name": "MI9P_KSU",
-      "repo": "https://github.com/RanjinCN/android_kernel_xiaomi_crux",
-      "branch": "android-13",
+      "repo": "https://github.com/RanjinCN/Xiaomi_Kernel_OpenSource",
+      "branch": "crux-p-oss",
       "device": "crux",
       "defconfig": "defconfig"
     },
