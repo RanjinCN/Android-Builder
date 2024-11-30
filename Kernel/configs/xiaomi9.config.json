@@ -1,11 +1,11 @@
 [
   {
     "kernelSource": {
-      "name": "Xiaomi9KernelPoweredBySeparate",
-      "repo": "https://github.com/Separatee/AllinOneKernel",
+      "name": "MI9P_KSU",
+      "repo": "https://github.com/RanjinCN/android_kernel_xiaomi_crux_kernelsu",
       "branch": "main",
-      "device": "cepheus",
-      "defconfig": "cepheus_defconfig"
+      "device": "crux",
+      "defconfig": "crux_defconfig"
     },
     "toolchains": [
       {
@@ -29,7 +29,7 @@
       "use": false,
       "release": true
     },
-    "enableKernelSU": false,
+    "enableKernelSU": true,
     "enableLXC": false
   }
 ]
